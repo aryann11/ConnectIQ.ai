@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 📨 Cold Email Generator  
 
 A highly specialized Flask-based web application that seamlessly integrates advanced Generative AI, persistent vector databases, and automated workflows to generate hyper-personalized cold emails for business development. This tool is engineered for efficiency and precision, designed to identify job opportunities, query relevant portfolio projects, and draft compelling emails for client outreach.
